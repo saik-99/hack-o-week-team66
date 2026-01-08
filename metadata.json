@@ -1,0 +1,5 @@
+{
+  "name": "Institute FAQ Bot(hack-0week 66)",
+  "description": "A smart, hybrid FAQ chatbot that uses strict pattern matching for instant answers and Gemini AI for complex fallback queries.",
+  "requestFramePermissions": []
+}
