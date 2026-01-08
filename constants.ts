@@ -1,6 +1,6 @@
 import { FAQRule } from './types';
 
-export const INSTITUTE_NAME = "TechFlow Academy";
+export const INSTITUTE_NAME = "Scholary Academy";
 
 // The strict rule-based knowledge base
 export const FAQ_DATABASE: FAQRule[] = [
@@ -14,7 +14,7 @@ export const FAQ_DATABASE: FAQRule[] = [
     id: 'fees',
     category: 'Admissions',
     keywords: ['fee', 'cost', 'price', 'tuition', 'money', 'pay', 'expensive'],
-    answer: "Our tuition fees are $2,500 per semester. We also offer monthly installment plans and merit-based scholarships for qualifying students."
+    answer: "Our tuition fees are ₹5000 per semester. We also offer monthly installment plans and merit-based scholarships for qualifying students."
   },
   {
     id: 'timings',
@@ -26,7 +26,7 @@ export const FAQ_DATABASE: FAQRule[] = [
     id: 'contact',
     category: 'Contact',
     keywords: ['contact', 'phone', 'email', 'call', 'reach', 'number', 'address'],
-    answer: "You can reach us at saikonde03@gmail.com or call +917972253404. Our campus is located at 123 Innovation Drive, Tech Park, NY."
+    answer: "You can reach us at saikonde03@gmail.com or call +917972253404. Our campus is located at 123 Innovation Drive, Tech Park, Mumbai."
   },
   {
     id: 'placement',
