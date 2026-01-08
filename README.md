@@ -62,3 +62,4 @@ export const FAQ_DATABASE: FAQRule[] = [
   // ...
 ];
 ```
+![Untitled](https://github.com/user-attachments/assets/6dbf9c24-ce28-486e-84ec-7b7ff5d444f2)
